@@ -2,3 +2,19 @@
     padding: 15px;
     text-align: center;
 }
+
+.intro{
+    background-image: url('./Images/whitney-houston-on-stage-fv6u2dxb0slu0gs5.webp');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20%;
+    color: white; 
+    font-family: 'Gabriela', serif;
+}
+
+
+.about{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
