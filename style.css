@@ -4,7 +4,7 @@
 }
 
 .intro{
-    background-image: url('./Images/whitney-houston-on-stage-fv6u2dxb0slu0gs5.webp');
+    background-image: url('./Images/sebastian-svenson-d2w-_1LJioQ-unsplash.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -23,5 +23,5 @@
     padding-top: 20px;
     padding-bottom: 20px;
     width: 30%;
-    align-items: center;
+    display: inline-block;
 }
